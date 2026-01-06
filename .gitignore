@@ -1,0 +1,12 @@
+# Virtual environments
+venv/
+__pycache__/
+
+# Model files (VERY IMPORTANT)
+models/*.gguf
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
