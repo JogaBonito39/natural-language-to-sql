@@ -59,3 +59,6 @@ Once the tunnel is active, open your browser to `http://localhost:8501`.
 * `ilab_script.py`: The script that runs on the remote Ilab machine to interface with the PostgreSQL database.  
 * `schema_subset.sql`: A condensed version of the database schema used as context for the LLM.
 
+## Demo
+
+![Application UI](screenshots/app_ui.png)
